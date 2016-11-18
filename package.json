@@ -1,7 +1,7 @@
 {
   "name": "react-native-banner-lite",
   "version": "1.0.0",
-  "description": "A banner component with adsorption. Compatible with iOS and Android.",
+  "description": "A banner component with adsorption for React Native. Compatible with iOS and Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
@@ -13,6 +13,7 @@
     "type": "git",
     "url": "https://github.com/talisk/react-native-banner-lite.git"
   },
+  "homepage": "https://github.com/talisk/react-native-banner-lite#readme",
   "keywords": [
     "react-native",
     "banner",
