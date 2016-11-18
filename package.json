@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/talisk/react-native-banner-lite/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/talisk/react-native-banner-lite.git"
@@ -14,6 +17,12 @@
     "react-native",
     "banner",
     "react-native-banner-lite"
+  ],
+  "maintainers": [
+    {
+      "name": "talisk",
+      "email": "talisk@talisk.cn"
+    }
   ],
   "author": "talisk",
   "license": "MIT"
