@@ -10,4 +10,4 @@ coverage
 build/Release
 node_modules
 res
-example
+Example
