@@ -6,6 +6,10 @@ A banner component with adsorption. Compatible with iOS and Android.
 
 > see: [ROADMAP.md](ROADMAP.md)
 
+## Preview
+
+![](/Preview/p01.gif)
+
 ## Getting Started
 
 ### Installation
