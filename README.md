@@ -1,3 +1,7 @@
+[![npm](https://img.shields.io/npm/v/react-native-banner-lite.svg?style=flat)]()
+[![Gemnasium](https://img.shields.io/gemnasium/mathiasbynens/he.svg)]()
+[![npm](https://img.shields.io/npm/l/express.svg)]()
+
 # react-native-banner-lite
 
 A banner component with adsorption. Compatible with iOS and Android.
@@ -9,6 +13,8 @@ A banner component with adsorption. Compatible with iOS and Android.
 ## Preview
 
 ![](/Preview/p01.gif)
+
+**[Play in the React Native Playground](https://rnplay.org/apps/-Ks6Lg)**
 
 ## Getting Started
 
@@ -81,18 +87,18 @@ See the example code in the Example folder.
 
 ### Parameters
 
-| Name  | Type     | Description |
-| :---- | :------: | :--- |
-| items | `array`   | banner items array |
+| Name  |  Type   | Description        |
+| :---- | :-----: | :----------------- |
+| items | `array` | banner items array |
 
 The items is an array of objects. The object contains 4 props.
 
-| Name  | Type     | Description |
-| :---- | :------: | :--- |
-| title | `string`   | title of the banner item |
-| subtitle | `string`   | subtitle of the banner item |
-| imageURL | `string`   | background image of the banner item |
-| onPress | `func`   | callback of the banner item tap event |
+| Name     |   Type   | Description                           |
+| :------- | :------: | :------------------------------------ |
+| title    | `string` | title of the banner item              |
+| subtitle | `string` | subtitle of the banner item           |
+| imageURL | `string` | background image of the banner item   |
+| onPress  |  `func`  | callback of the banner item tap event |
 
 ## Contribution
 
