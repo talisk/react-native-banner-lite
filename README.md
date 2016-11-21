@@ -4,7 +4,9 @@
 
 # react-native-banner-lite
 
-A banner component with adsorption. Compatible with iOS and Android.
+A paging banner component. Compatible with iOS and Android.
+
+It made from `ScrollView`, but it doesn't depend on the property `paging`. So the banner can be used in all versions of React Native.
 
 ## Roadmap
 
@@ -44,7 +46,7 @@ $ react-native init myproject
 import BannerLite from 'react-native-banner-lite';
 ```
 
-- Add the `BannerLite` component in your code
+- Add the `BannerLite` component to your code
 
 ```javascript
 <BannerLite
@@ -62,8 +64,8 @@ import BannerLite from 'react-native-banner-lite';
       onPress:(index)=>{console.log("tap"+index)}
     },
     {
-      title: "🐶🐶🐶",
-      subtitle: "呵呵呵呵呵",
+      title: "R U OK",
+      subtitle: "😂😂😂",
       imageURL: "http://pic69.nipic.com/file/20150610/21067407_235515103000_2.jpg",
       onPress:(index)=>{console.log("tap"+index)}
     },
